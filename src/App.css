@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.gifts {
+  margin: 320px;
+  margin-left: 440px;
+}
+
+.second {
+  margin-left: 20px;
+}
+
+.header {
+  color: white;
+}
+
+p{ 
+  color: white;
+  font-size: 17px;
+}
+
+button {
+  height: 100px;
+}
